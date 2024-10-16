@@ -3,9 +3,6 @@
 
 Running at: [<https://jpa03-caleb-stahl.dokku-08.cs.ucsb.edu>](https://jpa03-caleb-stahl.dokku-08.cs.ucsb.edu/#)
 
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
-
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
